@@ -18,6 +18,12 @@ p {
 	margin-bottom: 0;
 }
 
+.container {
+	width: 90%;
+	max-width: 550px;
+	padding-top: 70px;
+}
+
 #header {
 	margin-bottom: 60px;
 }
