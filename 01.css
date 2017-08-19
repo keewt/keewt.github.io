@@ -1,0 +1,49 @@
+body {
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Lobster Two', cursive;
+}
+
+h2 {
+	margin-top: -15px;
+}
+
+td {
+	vertical-align: top;
+}
+
+p {
+	margin-bottom: 0;
+}
+
+.container {
+	width: 90%;
+	max-width: 550px;
+	padding-top: 70px;
+}
+
+#header {
+	margin-bottom: 60px;
+}
+
+.left {
+	width: 35px;
+}
+
+.whatsapp {
+	border-left: #F2F3F4 solid 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 15px;
+}
+
+.fa {
+	color: #B3B6B7;
+}
+
+.note {
+	color: #B3B6B7;
+	font-weight: bold;
+}
