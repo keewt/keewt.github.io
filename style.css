@@ -75,3 +75,12 @@ p {
 	font-weight: bold;
 	background: #dddddd;
 }
+
+.index {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+a:hover {
+	text-decoration: none;
+}
